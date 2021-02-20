@@ -11,6 +11,7 @@ public class CSE8B_PA1 {
     Scanner scnr = new Scanner(System.in);
     int guess;
     int numCorrect = 0;
+    System.out.println("BRUH");
 // First question
     System.out.println("Question 1: Grace Hopper was an admiral in the US Navy.");
     System.out.println("1. True");
